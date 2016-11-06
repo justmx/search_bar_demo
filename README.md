@@ -1,6 +1,6 @@
 # search_bar_demo
 
-A simple search bar page with React & static data
+A simple search bar page with React
 
 ### Usage
 
